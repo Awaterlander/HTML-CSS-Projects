@@ -1,0 +1,27 @@
+/*----------------------
+    GENERIC STYLES
+----------------------*/
+html {
+    font-family: sans-serif;
+    font-size: 62.5%;
+}
+body {
+    font-size: 18px;
+    margin: 10px 10px 10px 10px;
+    font-family: "helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #b14f4f;
+    border: 8px double #fff;
+    border-radius: 6px;
+}
+
+/*==================
+    REQUIERMENTS
+Font-family
+Font-size
+Width of the inputs
+Margin between the inputs
+Border of the inputs
+Border radius of the inputs
+===================*/
